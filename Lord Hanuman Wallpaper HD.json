@@ -1,1245 +1,1232 @@
 {
-	"Ads": [
-		{
-			"select_main_ads": "ADMOB",
-			"select_backup_ads": "",
-			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
-			"main_ads_rewards": "ca-app-pub-3940256099942544/5224354917",
-			"main_ads_natives": "",
-			"backup_ads_banner": "",
-			"backup_ads_intertitial": "",
-			"backup_ads_rewards": "",
-			"backup_ads_natives": "",
-			"open_ads_admob": "",
-			"open_ads_alien": "",
-			"open_ads_max": "1",
-			"interval_intertitial": 5,
-			"initialize_sdk": "107355779",
-			"initialize_sdk_backup_ads": "",
-			"high_paying_keyword_1": "",
-			"high_paying_keyword_2": "",
-			"high_paying_keyword_3": "",
-			"high_paying_keyword_4": "",
-			"high_paying_keyword_5": "",
-			"status_app": "0",
-			"link_redirect": "https://"
-		}
-	],
-	"More": [
-		{
-			"id": 1,
-			"title": "judul",
-			"image": "linkgambar",
-			"link": "link"
-		}
-	],
-	"Categories": [
-		{
-			"id": 1,
-			"name_category": "Ganesha",
-			"image": "https://i.pinimg.com/736x/83/e9/ae/83e9aec33190fe876c1f429bc2f93270.jpg"
-		},
-		{
-			"id": 2,
-			"name_category": "Hanuman",
-			"image": "https://i.pinimg.com/564x/6a/70/1c/6a701c0e9d939fcdef5a83084e0f783b.jpg"
-		},
-		{
-			"id": 3,
-			"name_category": "Krishna",
-			"image": "https://i.pinimg.com/564x/98/0e/4e/980e4e27d7f1cda9b3ca7bfdc78304d2.jpg"
-		},
-		{
-			"id": 4,
-			"name_category": "Mahadev",
-			"image": "https://i.pinimg.com/564x/d4/9b/4c/d49b4ccd36972c556f7e04c2007a368c.jpg"
-		}
-	],
-	"Data": [
-		{
-			"id": 1,
-			"name_category": "Ganesha",
-			"title": "1",
-			"image": "https://i.pinimg.com/564x/7c/01/b6/7c01b6ce2a1a1cbac22bb3709a7bf2a9.jpg",
-			"lock": true
-		},
-		{
-			"id": 2,
-			"name_category": "Ganesha",
-			"title": "2",
-			"image": "https://i.pinimg.com/564x/90/d7/73/90d773b7c13d8ae286dd7fa59223968d.jpg",
-			"lock": true
-		},
-		{
-			"id": 3,
-			"name_category": "Ganesha",
-			"title": "3",
-			"image": "https://i.pinimg.com/564x/08/9a/5e/089a5ef26fb0039b85d4c948f1b9dc64.jpg",
-			"lock": true
-		},
-		{
-			"id": 4,
-			"name_category": "Ganesha",
-			"title": "4",
-			"image": "https://i.pinimg.com/564x/92/1b/6f/921b6f1c883f597e575866c130cdd56f.jpg",
-			"lock": true
-		},
-		{
-			"id": 5,
-			"name_category": "Ganesha",
-			"title": "5",
-			"image": "https://i.pinimg.com/564x/59/8e/df/598edf0e151b9ea78ca7d6da579cfd6c.jpg",
-			"lock": true
-		},
-		{
-			"id": 6,
-			"name_category": "Ganesha",
-			"title": "6",
-			"image": "https://i.pinimg.com/564x/16/f2/4a/16f24a36a33e9c48d7867ac434d595e7.jpg",
-			"lock": true
-		},
-		{
-			"id": 7,
-			"name_category": "Ganesha",
-			"title": "7",
-			"image": "https://i.pinimg.com/564x/02/c4/ee/02c4ee10df6de6b73a8fc9bf72ff6765.jpg",
-			"lock": true
-		},
-		{
-			"id": 8,
-			"name_category": "Ganesha",
-			"title": "8",
-			"image": "https://i.pinimg.com/736x/a0/59/f9/a059f9dc7bb21b5d843df1b8f9fd767f.jpg",
-			"lock": true
-		},
-		{
-			"id": 9,
-			"name_category": "Ganesha",
-			"title": "9",
-			"image": "https://i.pinimg.com/564x/57/2a/3c/572a3c17258004803200c414046a4737.jpg",
-			"lock": true
-		},
-		{
-			"id": 10,
-			"name_category": "Ganesha",
-			"title": "10",
-			"image": "https://i.pinimg.com/736x/09/5f/3e/095f3e22c0c04fd155f3862ae97d1277.jpg",
-			"lock": true
-		},
-		{
-			"id": 11,
-			"name_category": "Ganesha",
-			"title": "11",
-			"image": "https://i.pinimg.com/736x/5c/5c/fe/5c5cfe589969ad6852383890f814d8dc.jpg",
-			"lock": true
-		},
-		{
-			"id": 12,
-			"name_category": "Ganesha",
-			"title": "12",
-			"image": "https://i.pinimg.com/736x/a1/42/1e/a1421e1f938d222921890c4f2970d39a.jpg",
-			"lock": true
-		},
-		{
-			"id": 13,
-			"name_category": "Ganesha",
-			"title": "13",
-			"image": "https://i.pinimg.com/736x/89/0a/bc/890abc571a6cae3f8634419694123773.jpg",
-			"lock": true
-		},
-		{
-			"id": 14,
-			"name_category": "Ganesha",
-			"title": "14",
-			"image": "https://i.pinimg.com/736x/f6/7a/6b/f67a6b2a29479e1914b1499a72172de1.jpg",
-			"lock": true
-		},
-		{
-			"id": 15,
-			"name_category": "Ganesha",
-			"title": "15",
-			"image": "https://i.pinimg.com/736x/5d/9b/50/5d9b5049aca9484e6b4a13893b05c6a5.jpg",
-			"lock": true
-		},
-		{
-			"id": 16,
-			"name_category": "Ganesha",
-			"title": "16",
-			"image": "https://i.pinimg.com/564x/b7/a7/33/b7a733ad168d0670281bc838ed6de716.jpg",
-			"lock": false
-		},
-		{
-			"id": 17,
-			"name_category": "Ganesha",
-			"title": "17",
-			"image": "https://i.pinimg.com/564x/76/d8/29/76d829dd3549c2bacece06bfb833693b.jpg",
-			"lock": false
-		},
-		{
-			"id": 18,
-			"name_category": "Ganesha",
-			"title": "18",
-			"image": "https://i.pinimg.com/564x/17/fe/37/17fe3722fbdf7a7e1fc1a396fbca88db.jpg",
-			"lock": false
-		},
-		{
-			"id": 19,
-			"name_category": "Ganesha",
-			"title": "19",
-			"image": "https://i.pinimg.com/736x/83/e9/ae/83e9aec33190fe876c1f429bc2f93270.jpg",
-			"lock": false
-		},
-		{
-			"id": 20,
-			"name_category": "Ganesha",
-			"title": "20",
-			"image": "https://i.pinimg.com/736x/a3/60/71/a36071a3a68801aaa0712a5a8c4a3cca.jpg",
-			"lock": false
-		},
-		{
-			"id": 21,
-			"name_category": "Ganesha",
-			"title": "21",
-			"image": "https://i.pinimg.com/736x/86/29/57/86295765e70f8c385c676c8417059e2c.jpg",
-			"lock": false
-		},
-		{
-			"id": 22,
-			"name_category": "Ganesha",
-			"title": "22",
-			"image": "https://i.pinimg.com/736x/99/b4/2a/99b42aa892f78788640a92c563d2b698.jpg",
-			"lock": false
-		},
-		{
-			"id": 23,
-			"name_category": "Ganesha",
-			"title": "23",
-			"image": "https://i.pinimg.com/736x/9f/93/68/9f93685466839e29d6e1b051b90360a3.jpg",
-			"lock": false
-		},
-		{
-			"id": 24,
-			"name_category": "Ganesha",
-			"title": "24",
-			"image": "https://i.pinimg.com/736x/cd/10/26/cd1026c8fcab24fc94e11c1372664c37.jpg",
-			"lock": false
-		},
-		{
-			"id": 25,
-			"name_category": "Ganesha",
-			"title": "25",
-			"image": "https://i.pinimg.com/564x/92/5e/31/925e311c5c7a0e70fd7baa062df63b07.jpg",
-			"lock": false
-		},
-		{
-			"id": 26,
-			"name_category": "Ganesha",
-			"title": "26",
-			"image": "https://i.pinimg.com/564x/21/9d/eb/219debc3f0f4f93a700930e828e6b070.jpg",
-			"lock": false
-		},
-		{
-			"id": 27,
-			"name_category": "Ganesha",
-			"title": "27",
-			"image": "https://i.pinimg.com/564x/71/92/1f/71921f408dea08e3b67d482d2ff2c2a9.jpg",
-			"lock": false
-		},
-		{
-			"id": 28,
-			"name_category": "Ganesha",
-			"title": "28",
-			"image": "https://i.pinimg.com/736x/09/18/ed/0918ed6009bf48e7b46e63db95e3d44c.jpg",
-			"lock": false
-		},
-		{
-			"id": 29,
-			"name_category": "Ganesha",
-			"title": "29",
-			"image": "https://i.pinimg.com/736x/78/f9/57/78f957b4e07aac75bce27955b54f3901.jpg",
-			"lock": false
-		},
-		{
-			"id": 30,
-			"name_category": "Ganesha",
-			"title": "30",
-			"image": "https://i.pinimg.com/564x/de/6b/c3/de6bc3ca548811a0f35165253a6a7804.jpg",
-			"lock": false
-		},
-		{
-			"id": 31,
-			"name_category": "Ganesha",
-			"title": "31",
-			"image": "https://i.pinimg.com/736x/a7/32/19/a732195de903e33dfb27839b0067b6dc.jpg",
-			"lock": false
-		},
-		{
-			"id": 32,
-			"name_category": "Ganesha",
-			"title": "32",
-			"image": "https://i.pinimg.com/564x/3a/1c/8a/3a1c8a42f477736d375eaf87dfc8db54.jpg",
-			"lock": false
-		},
-		{
-			"id": 33,
-			"name_category": "Ganesha",
-			"title": "33",
-			"image": "https://i.pinimg.com/736x/2c/7c/2a/2c7c2a8ab98959daeeb124bbd19771b7.jpg",
-			"lock": false
-		},
-		{
-			"id": 34,
-			"name_category": "Ganesha",
-			"title": "34",
-			"image": "https://i.pinimg.com/736x/ad/78/06/ad78061a56e9894b9035eb7d4e184cc1.jpg",
-			"lock": false
-		},
-		{
-			"id": 35,
-			"name_category": "Ganesha",
-			"title": "35",
-			"image": "https://i.pinimg.com/564x/6f/e2/34/6fe234dab83322150f63668cf1729070.jpg",
-			"lock": false
-		},
-		{
-			"id": 36,
-			"name_category": "Ganesha",
-			"title": "36",
-			"image": "https://i.pinimg.com/564x/fe/09/ea/fe09ea635817c35669a23b81f962c03f.jpg",
-			"lock": false
-		},
-		{
-			"id": 37,
-			"name_category": "Ganesha",
-			"title": "37",
-			"image": "https://i.pinimg.com/564x/e9/93/cd/e993cd3f2d4cd4137ed6501a8cde5c24.jpg",
-			"lock": false
-		},
-		{
-			"id": 38,
-			"name_category": "Ganesha",
-			"title": "38",
-			"image": "https://i.pinimg.com/736x/37/29/b7/3729b7f2c0c34acbbd171d1efdf14df4.jpg",
-			"lock": false
-		},
-		{
-			"id": 39,
-			"name_category": "Ganesha",
-			"title": "39",
-			"image": "https://i.pinimg.com/564x/b8/19/a4/b819a4600553c848ed5df62f7f2804ae.jpg",
-			"lock": false
-		},
-		{
-			"id": 40,
-			"name_category": "Ganesha",
-			"title": "40",
-			"image": "https://i.pinimg.com/736x/67/c3/37/67c337462818347c2114743652c34c24.jpg",
-			"lock": false
-		},
-		{
-			"id": 41,
-			"name_category": "Ganesha",
-			"title": "41",
-			"image": "https://i.pinimg.com/564x/6f/28/ce/6f28cea70a3a3a74b2462cc6e562b2ee.jpg",
-			"lock": false
-		},
-		{
-			"id": 42,
-			"name_category": "Ganesha",
-			"title": "42",
-			"image": "https://i.pinimg.com/564x/63/77/1d/63771db87ac1eb04730f71bd1e958c26.jpg",
-			"lock": false
-		},
-		{
-			"id": 43,
-			"name_category": "Ganesha",
-			"title": "43",
-			"image": "https://i.pinimg.com/564x/16/d5/03/16d503ca13a093cfaccc3dbed73a664f.jpg",
-			"lock": false
-		},
-		{
-			"id": 44,
-			"name_category": "Ganesha",
-			"title": "44",
-			"image": "https://i.pinimg.com/736x/9a/4d/c9/9a4dc91720cd53e65f9d75669c83399f.jpg",
-			"lock": false
-		},
-		{
-			"id": 45,
-			"name_category": "Ganesha",
-			"title": "45",
-			"image": "https://i.pinimg.com/564x/4c/2e/82/4c2e82097747d59bc389f5d163152eff.jpg",
-			"lock": false
-		},
-		{
-			"id": 46,
-			"name_category": "Ganesha",
-			"title": "46",
-			"image": "https://i.pinimg.com/736x/32/ba/58/32ba5841fa6fdf99228a1664994b7dcf.jpg",
-			"lock": false
-		},
-		{
-			"id": 47,
-			"name_category": "Ganesha",
-			"title": "47",
-			"image": "https://i.pinimg.com/736x/d5/34/66/d53466ce4e05dd0227efc366953571ca.jpg",
-			"lock": false
-		},
-		{
-			"id": 48,
-			"name_category": "Ganesha",
-			"title": "48",
-			"image": "https://i.pinimg.com/736x/b7/c0/fe/b7c0fef580ec22bcb13b8b9e8211eb0a.jpg",
-			"lock": false
-		},
-		{
-			"id": 49,
-			"name_category": "Ganesha",
-			"title": "49",
-			"image": "https://i.pinimg.com/736x/c5/fd/7a/c5fd7a86c8e84e6075efb73c0d66ff05.jpg",
-			"lock": false
-		},
-		{
-			"id": 50,
-			"name_category": "Ganesha",
-			"title": "50",
-			"image": "https://i.pinimg.com/736x/93/9d/0c/939d0c01e3092666b4f0ec8ad5072c00.jpg",
-			"lock": false
-		},
-		{
-			"id": 51,
-			"name_category": "Hanuman",
-			"title": "51",
-			"image": "https://i.pinimg.com/564x/9e/43/a9/9e43a9b932d596bc5404e9247334dd2a.jpg",
-			"lock": true
-		},
-		{
-			"id": 52,
-			"name_category": "Hanuman",
-			"title": "52",
-			"image": "https://i.pinimg.com/564x/6a/70/1c/6a701c0e9d939fcdef5a83084e0f783b.jpg",
-			"lock": true
-		},
-		{
-			"id": 53,
-			"name_category": "Hanuman",
-			"title": "53",
-			"image": "https://i.pinimg.com/564x/76/d3/0e/76d30e6c58632755325bdaff966d9285.jpg",
-			"lock": true
-		},
-		{
-			"id": 54,
-			"name_category": "Hanuman",
-			"title": "54",
-			"image": "https://i.pinimg.com/564x/2b/70/58/2b705896cb4b35f408f10a6ce5aa54ec.jpg",
-			"lock": true
-		},
-		{
-			"id": 55,
-			"name_category": "Hanuman",
-			"title": "55",
-			"image": "https://i.pinimg.com/564x/80/00/5f/80005f30658d505c04f9074e7683a64c.jpg",
-			"lock": true
-		},
-		{
-			"id": 56,
-			"name_category": "Hanuman",
-			"title": "56",
-			"image": "https://i.pinimg.com/564x/ef/80/4c/ef804cc9392b7da71908f7e622af1137.jpg",
-			"lock": true
-		},
-		{
-			"id": 57,
-			"name_category": "Hanuman",
-			"title": "57",
-			"image": "https://i.pinimg.com/564x/a9/2d/e3/a92de3d19b4a75cb4320a475a8cef762.jpg",
-			"lock": true
-		},
-		{
-			"id": 58,
-			"name_category": "Hanuman",
-			"title": "58",
-			"image": "https://i.pinimg.com/564x/54/d8/fa/54d8fa57d2786b43a5529cba4915b159.jpg",
-			"lock": true
-		},
-		{
-			"id": 59,
-			"name_category": "Hanuman",
-			"title": "59",
-			"image": "https://i.pinimg.com/564x/76/fc/38/76fc385239ac2ddd357425280b40eabf.jpg",
-			"lock": true
-		},
-		{
-			"id": 60,
-			"name_category": "Hanuman",
-			"title": "60",
-			"image": "https://i.pinimg.com/564x/73/2f/bd/732fbd845ed29cee2366fb3d4117e898.jpg",
-			"lock": true
-		},
-		{
-			"id": 61,
-			"name_category": "Hanuman",
-			"title": "61",
-			"image": "https://i.pinimg.com/564x/a4/98/5a/a4985a7c63d550a961f9b9444fa2d366.jpg",
-			"lock": true
-		},
-		{
-			"id": 62,
-			"name_category": "Hanuman",
-			"title": "62",
-			"image": "https://i.pinimg.com/564x/21/88/01/2188014fa53840a11f763d137c2202ed.jpg",
-			"lock": true
-		},
-		{
-			"id": 63,
-			"name_category": "Hanuman",
-			"title": "63",
-			"image": "https://i.pinimg.com/564x/da/72/e4/da72e4911ca70712af91d0b5309ab463.jpg",
-			"lock": true
-		},
-		{
-			"id": 64,
-			"name_category": "Hanuman",
-			"title": "64",
-			"image": "https://i.pinimg.com/564x/2c/71/10/2c7110203688e6512606a52f9f74ec35.jpg",
-			"lock": true
-		},
-		{
-			"id": 65,
-			"name_category": "Hanuman",
-			"title": "65",
-			"image": "https://i.pinimg.com/564x/28/57/80/285780c63c20c4f2f591521be8c36519.jpg",
-			"lock": true
-		},
-		{
-			"id": 66,
-			"name_category": "Hanuman",
-			"title": "66",
-			"image": "https://i.pinimg.com/564x/43/9a/76/439a767e7623d7329400a41dfef675a4.jpg",
-			"lock": false
-		},
-		{
-			"id": 67,
-			"name_category": "Hanuman",
-			"title": "67",
-			"image": "https://i.pinimg.com/564x/1d/5c/32/1d5c32a668631d1e0abbc3aa483b2771.jpg",
-			"lock": false
-		},
-		{
-			"id": 68,
-			"name_category": "Hanuman",
-			"title": "68",
-			"image": "https://i.pinimg.com/564x/c8/fd/bc/c8fdbc6f893cfba77cd0a6b41247ebce.jpg",
-			"lock": false
-		},
-		{
-			"id": 69,
-			"name_category": "Hanuman",
-			"title": "69",
-			"image": "https://i.pinimg.com/564x/8a/80/8b/8a808b2005643457b8bf69486880a631.jpg",
-			"lock": false
-		},
-		{
-			"id": 70,
-			"name_category": "Hanuman",
-			"title": "70",
-			"image": "https://i.pinimg.com/564x/9a/ac/14/9aac14d6a69943805d27d07c0206e194.jpg",
-			"lock": false
-		},
-		{
-			"id": 71,
-			"name_category": "Hanuman",
-			"title": "71",
-			"image": "https://i.pinimg.com/564x/b2/26/da/b226da0954e00ccaaf1b77083a58272f.jpg",
-			"lock": false
-		},
-		{
-			"id": 72,
-			"name_category": "Hanuman",
-			"title": "72",
-			"image": "https://i.pinimg.com/564x/d5/81/a4/d581a456820620930d45a8b3d120e83b.jpg",
-			"lock": false
-		},
-		{
-			"id": 73,
-			"name_category": "Hanuman",
-			"title": "73",
-			"image": "https://i.pinimg.com/564x/fd/2e/cf/fd2ecf75c40f93f04850b6468eefcab2.jpg",
-			"lock": false
-		},
-		{
-			"id": 74,
-			"name_category": "Hanuman",
-			"title": "74",
-			"image": "https://i.pinimg.com/564x/c5/3a/46/c53a46b1b697075ece9fa33253d2e6e4.jpg",
-			"lock": false
-		},
-		{
-			"id": 75,
-			"name_category": "Hanuman",
-			"title": "75",
-			"image": "https://i.pinimg.com/564x/a4/d9/52/a4d9528c07a99e166c19e874bbcb295a.jpg",
-			"lock": false
-		},
-		{
-			"id": 76,
-			"name_category": "Hanuman",
-			"title": "76",
-			"image": "https://i.pinimg.com/564x/14/70/50/14705069632135a11b32f1ca5bc77253.jpg",
-			"lock": false
-		},
-		{
-			"id": 77,
-			"name_category": "Hanuman",
-			"title": "77",
-			"image": "https://i.pinimg.com/564x/e0/72/af/e072af701d62ba2f5749a0ed3635f5d7.jpg",
-			"lock": false
-		},
-		{
-			"id": 78,
-			"name_category": "Hanuman",
-			"title": "78",
-			"image": "https://i.pinimg.com/564x/d9/fa/68/d9fa685d35e7d82e7a298cc5704f9a8a.jpg",
-			"lock": false
-		},
-		{
-			"id": 79,
-			"name_category": "Hanuman",
-			"title": "79",
-			"image": "https://i.pinimg.com/564x/c6/4a/82/c64a82e92b96f449f072050490863350.jpg",
-			"lock": false
-		},
-		{
-			"id": 80,
-			"name_category": "Hanuman",
-			"title": "80",
-			"image": "https://i.pinimg.com/564x/0a/31/86/0a3186a9ccada01478d7b9cc3a595474.jpg",
-			"lock": false
-		},
-		{
-			"id": 81,
-			"name_category": "Hanuman",
-			"title": "81",
-			"image": "https://i.pinimg.com/564x/84/5b/98/845b98a909f2be7a5fef7cf59b65ac42.jpg",
-			"lock": false
-		},
-		{
-			"id": 82,
-			"name_category": "Hanuman",
-			"title": "82",
-			"image": "https://i.pinimg.com/564x/6c/8a/c5/6c8ac544c7104dab40b7a310a48bbe6f.jpg",
-			"lock": false
-		},
-		{
-			"id": 83,
-			"name_category": "Hanuman",
-			"title": "83",
-			"image": "https://i.pinimg.com/564x/9f/cd/e9/9fcde94858c0387d82ebb119bc7efa78.jpg",
-			"lock": false
-		},
-		{
-			"id": 84,
-			"name_category": "Hanuman",
-			"title": "84",
-			"image": "https://i.pinimg.com/564x/38/87/2c/38872c6e0c96f5bda6dbc98b53631f63.jpg",
-			"lock": false
-		},
-		{
-			"id": 85,
-			"name_category": "Hanuman",
-			"title": "85",
-			"image": "https://i.pinimg.com/564x/76/f8/50/76f850b5816e4d6068dba28082cf101e.jpg",
-			"lock": false
-		},
-		{
-			"id": 86,
-			"name_category": "Hanuman",
-			"title": "86",
-			"image": "https://i.pinimg.com/564x/d8/80/e2/d880e26c73c45b09b643e8bc3237199f.jpg",
-			"lock": false
-		},
-		{
-			"id": 87,
-			"name_category": "Hanuman",
-			"title": "87",
-			"image": "https://i.pinimg.com/564x/ae/aa/75/aeaa7579c6de876b1be0e931ebdf561e.jpg",
-			"lock": false
-		},
-		{
-			"id": 88,
-			"name_category": "Hanuman",
-			"title": "88",
-			"image": "https://i.pinimg.com/564x/58/c2/68/58c268db78896f491de59f74862af4da.jpg",
-			"lock": false
-		},
-		{
-			"id": 89,
-			"name_category": "Hanuman",
-			"title": "89",
-			"image": "https://i.pinimg.com/736x/40/7f/ba/407fba0d19be1b56433c8f4eaabe60a2.jpg",
-			"lock": false
-		},
-		{
-			"id": 90,
-			"name_category": "Hanuman",
-			"title": "90",
-			"image": "https://i.pinimg.com/564x/a3/bf/ba/a3bfba3de637de52c03120e4b7d22054.jpg",
-			"lock": false
-		},
-		{
-			"id": 91,
-			"name_category": "Hanuman",
-			"title": "91",
-			"image": "https://i.pinimg.com/564x/63/3b/52/633b523c41c5eae449393c4a1d651f9c.jpg",
-			"lock": false
-		},
-		{
-			"id": 92,
-			"name_category": "Hanuman",
-			"title": "92",
-			"image": "https://i.pinimg.com/564x/c3/fd/48/c3fd48ee3e3f6c0292fdb0f46e0d1832.jpg",
-			"lock": false
-		},
-		{
-			"id": 93,
-			"name_category": "Hanuman",
-			"title": "93",
-			"image": "https://i.pinimg.com/564x/de/38/05/de3805480e1d0724c30d28959ddc9317.jpg",
-			"lock": false
-		},
-		{
-			"id": 94,
-			"name_category": "Hanuman",
-			"title": "94",
-			"image": "https://i.pinimg.com/564x/53/5f/1c/535f1c91dd9a762941b1ae0e0f856b8e.jpg",
-			"lock": false
-		},
-		{
-			"id": 95,
-			"name_category": "Hanuman",
-			"title": "95",
-			"image": "https://i.pinimg.com/564x/af/20/39/af20399fda5a103845fa8ad8c2266255.jpg",
-			"lock": false
-		},
-		{
-			"id": 96,
-			"name_category": "Hanuman",
-			"title": "96",
-			"image": "https://i.pinimg.com/564x/06/5f/dc/065fdc2de009752c128c0e9bcfdca376.jpg",
-			"lock": false
-		},
-		{
-			"id": 97,
-			"name_category": "Hanuman",
-			"title": "97",
-			"image": "https://i.pinimg.com/564x/ca/f4/df/caf4dfbcde821224f206a6da4b1c6972.jpg",
-			"lock": false
-		},
-		{
-			"id": 98,
-			"name_category": "Hanuman",
-			"title": "98",
-			"image": "https://i.pinimg.com/564x/45/f6/fe/45f6fe289b6ba5926e1b407078a666ba.jpg",
-			"lock": false
-		},
-		{
-			"id": 99,
-			"name_category": "Hanuman",
-			"title": "99",
-			"image": "https://i.pinimg.com/564x/de/c3/71/dec3711dc2e12b99436af573de9e9c63.jpg",
-			"lock": false
-		},
-		{
-			"id": 100,
-			"name_category": "Hanuman",
-			"title": "100",
-			"image": "https://i.pinimg.com/564x/ca/9d/28/ca9d2823ead9a22512f0860bc20e5840.jpg",
-			"lock": false
-		},
-		{
-			"id": 101,
-			"name_category": "Hanuman",
-			"title": "101",
-			"image": "https://i.pinimg.com/564x/5d/75/a3/5d75a3507a18572e99648e1856d4c684.jpg",
-			"lock": false
-		},
-		{
-			"id": 102,
-			"name_category": "Hanuman",
-			"title": "102",
-			"image": "https://i.pinimg.com/564x/f8/92/91/f892912fd461cd65e0aa32566878784b.jpg",
-			"lock": false
-		},
-		{
-			"id": 103,
-			"name_category": "Hanuman",
-			"title": "103",
-			"image": "https://i.pinimg.com/564x/77/a7/a4/77a7a4754bca19cc68a44c40f25a25dd.jpg",
-			"lock": false
-		},
-		{
-			"id": 104,
-			"name_category": "Hanuman",
-			"title": "104",
-			"image": "https://i.pinimg.com/564x/99/f7/53/99f7530cf8c4c92d48e7d4dccf03e698.jpg",
-			"lock": false
-		},
-		{
-			"id": 105,
-			"name_category": "Hanuman",
-			"title": "105",
-			"image": "https://i.pinimg.com/564x/c4/c7/00/c4c70029cbf71e7282d9dfd91552bd3f.jpg",
-			"lock": false
-		},
-		{
-			"id": 106,
-			"name_category": "Hanuman",
-			"title": "106",
-			"image": "https://i.pinimg.com/564x/79/7b/2c/797b2cb53f9ec280e3619c83db126556.jpg",
-			"lock": false
-		},
-		{
-			"id": 107,
-			"name_category": "Hanuman",
-			"title": "107",
-			"image": "https://i.pinimg.com/564x/6a/cb/c2/6acbc29c68305284482e1bb64a64dfa3.jpg",
-			"lock": false
-		},
-		{
-			"id": 108,
-			"name_category": "Krishna",
-			"title": "108",
-			"image": "https://i.pinimg.com/564x/b8/04/bd/b804bdddf4ea6f0e948d231b87d858a5.jpg",
-			"lock": true
-		},
-		{
-			"id": 109,
-			"name_category": "Krishna",
-			"title": "109",
-			"image": "https://i.pinimg.com/564x/b3/b6/af/b3b6af0c89d702a2f577d491bc4d5cb5.jpg",
-			"lock": true
-		},
-		{
-			"id": 110,
-			"name_category": "Krishna",
-			"title": "110",
-			"image": "https://i.pinimg.com/564x/91/84/44/918444e5f57bef7d83c89cb79cf2cbf1.jpg",
-			"lock": true
-		},
-		{
-			"id": 111,
-			"name_category": "Krishna",
-			"title": "111",
-			"image": "https://i.pinimg.com/564x/c6/d8/33/c6d833a524d7e5c4201968bec815d8d0.jpg",
-			"lock": true
-		},
-		{
-			"id": 112,
-			"name_category": "Krishna",
-			"title": "112",
-			"image": "https://i.pinimg.com/564x/98/0e/4e/980e4e27d7f1cda9b3ca7bfdc78304d2.jpg",
-			"lock": true
-		},
-		{
-			"id": 113,
-			"name_category": "Krishna",
-			"title": "113",
-			"image": "https://i.pinimg.com/564x/d7/28/e7/d728e7dd720cbdb03f044f80f18fe85d.jpg",
-			"lock": true
-		},
-		{
-			"id": 114,
-			"name_category": "Krishna",
-			"title": "114",
-			"image": "https://i.pinimg.com/564x/2d/86/6c/2d866c9e8d0c6cbab06b14dae3c44e3b.jpg",
-			"lock": true
-		},
-		{
-			"id": 115,
-			"name_category": "Krishna",
-			"title": "115",
-			"image": "https://i.pinimg.com/564x/f6/64/4b/f6644be17fd1a08abd517f6546ab9a18.jpg",
-			"lock": true
-		},
-		{
-			"id": 116,
-			"name_category": "Krishna",
-			"title": "116",
-			"image": "https://i.pinimg.com/564x/f7/77/04/f7770496cda52602a6f8ac91f297b505.jpg",
-			"lock": true
-		},
-		{
-			"id": 117,
-			"name_category": "Krishna",
-			"title": "117",
-			"image": "https://i.pinimg.com/564x/cf/35/05/cf350544b7c488d7a572e002eeee6d1d.jpg",
-			"lock": true
-		},
-		{
-			"id": 118,
-			"name_category": "Krishna",
-			"title": "118",
-			"image": "https://i.pinimg.com/564x/cb/de/a6/cbdea6400d0177a3c325a46160ff76f4.jpg",
-			"lock": false
-		},
-		{
-			"id": 119,
-			"name_category": "Krishna",
-			"title": "119",
-			"image": "https://i.pinimg.com/564x/08/94/6b/08946bd9f77a35186ba711e1c446e988.jpg",
-			"lock": false
-		},
-		{
-			"id": 120,
-			"name_category": "Krishna",
-			"title": "120",
-			"image": "https://i.pinimg.com/736x/3d/ee/a9/3deea994e3b93dc96ccb4efb929aa2fe.jpg",
-			"lock": false
-		},
-		{
-			"id": 121,
-			"name_category": "Krishna",
-			"title": "121",
-			"image": "https://i.pinimg.com/564x/39/8b/ad/398badfb8c4079684fb5c043d99232c4.jpg",
-			"lock": false
-		},
-		{
-			"id": 122,
-			"name_category": "Krishna",
-			"title": "122",
-			"image": "https://i.pinimg.com/564x/ce/38/e7/ce38e7764c867273319442cd0364f94e.jpg",
-			"lock": false
-		},
-		{
-			"id": 123,
-			"name_category": "Krishna",
-			"title": "123",
-			"image": "https://i.pinimg.com/564x/e1/26/7a/e1267abf65d9be8e7c325ac6819452a5.jpg",
-			"lock": false
-		},
-		{
-			"id": 124,
-			"name_category": "Krishna",
-			"title": "124",
-			"image": "https://i.pinimg.com/736x/60/15/7b/60157b7b5d93af1e691ae5bd5a643f62.jpg",
-			"lock": false
-		},
-		{
-			"id": 125,
-			"name_category": "Krishna",
-			"title": "125",
-			"image": "https://i.pinimg.com/564x/2e/85/9e/2e859ec818d393901d1eea1f662c2512.jpg",
-			"lock": false
-		},
-		{
-			"id": 126,
-			"name_category": "Krishna",
-			"title": "126",
-			"image": "https://i.pinimg.com/564x/cd/58/be/cd58be08d7881094c78ed96432e4927e.jpg",
-			"lock": false
-		},
-		{
-			"id": 127,
-			"name_category": "Krishna",
-			"title": "127",
-			"image": "https://i.pinimg.com/564x/cb/de/a6/cbdea6400d0177a3c325a46160ff76f4.jpg",
-			"lock": false
-		},
-		{
-			"id": 128,
-			"name_category": "Krishna",
-			"title": "128",
-			"image": "https://i.pinimg.com/564x/4a/60/e9/4a60e9e994ac857ae8fbf89dd93a0b31.jpg",
-			"lock": false
-		},
-		{
-			"id": 129,
-			"name_category": "Krishna",
-			"title": "129",
-			"image": "https://i.pinimg.com/564x/53/76/e5/5376e5b99d64f61bf2ddb2310e27be36.jpg",
-			"lock": false
-		},
-		{
-			"id": 130,
-			"name_category": "Krishna",
-			"title": "130",
-			"image": "https://i.pinimg.com/564x/fc/5a/b2/fc5ab2476a5b90ca96b84608591b9926.jpg",
-			"lock": false
-		},
-		{
-			"id": 131,
-			"name_category": "Krishna",
-			"title": "131",
-			"image": "https://i.pinimg.com/564x/5e/1e/bc/5e1ebccd5cd5b8f38be50b102e273b78.jpg",
-			"lock": false
-		},
-		{
-			"id": 132,
-			"name_category": "Krishna",
-			"title": "132",
-			"image": "https://i.pinimg.com/736x/92/df/60/92df60242609b51b701bfc31a41d033d.jpg",
-			"lock": false
-		},
-		{
-			"id": 133,
-			"name_category": "Krishna",
-			"title": "133",
-			"image": "https://i.pinimg.com/564x/b3/14/24/b314248d511cf43640c38c3def2b6de0.jpg",
-			"lock": false
-		},
-		{
-			"id": 134,
-			"name_category": "Krishna",
-			"title": "134",
-			"image": "https://i.pinimg.com/564x/ae/27/f6/ae27f6d99c6d53f4e068be019117d42c.jpg",
-			"lock": false
-		},
-		{
-			"id": 135,
-			"name_category": "Mahadev",
-			"title": "135",
-			"image": "https://i.pinimg.com/564x/87/0f/88/870f881a57cea76c21c6bee5bb3e7ca7.jpg",
-			"lock": true
-		},
-		{
-			"id": 136,
-			"name_category": "Mahadev",
-			"title": "136",
-			"image": "https://i.pinimg.com/564x/d4/9b/4c/d49b4ccd36972c556f7e04c2007a368c.jpg",
-			"lock": true
-		},
-		{
-			"id": 137,
-			"name_category": "Mahadev",
-			"title": "137",
-			"image": "https://i.pinimg.com/564x/0b/b6/9f/0bb69fc1c452cb0142a9f9744c45f4d2.jpg",
-			"lock": true
-		},
-		{
-			"id": 138,
-			"name_category": "Mahadev",
-			"title": "138",
-			"image": "https://i.pinimg.com/564x/86/ea/7a/86ea7a4aaa929f4d61f23da1f0f6f680.jpg",
-			"lock": true
-		},
-		{
-			"id": 139,
-			"name_category": "Mahadev",
-			"title": "139",
-			"image": "https://i.pinimg.com/564x/56/d9/df/56d9df8aaec8d8ae1dbddfb444b1c5cb.jpg",
-			"lock": true
-		},
-		{
-			"id": 140,
-			"name_category": "Mahadev",
-			"title": "140",
-			"image": "https://i.pinimg.com/564x/c4/dd/57/c4dd577a95efe33256262b39981e0d29.jpg",
-			"lock": true
-		},
-		{
-			"id": 141,
-			"name_category": "Mahadev",
-			"title": "141",
-			"image": "https://i.pinimg.com/736x/7b/98/87/7b9887132d600821f84cb41c9a241eab.jpg",
-			"lock": true
-		},
-		{
-			"id": 142,
-			"name_category": "Mahadev",
-			"title": "142",
-			"image": "https://i.pinimg.com/736x/ab/b7/c3/abb7c30a8ac3c065d96254319338cdf2.jpg",
-			"lock": true
-		},
-		{
-			"id": 143,
-			"name_category": "Mahadev",
-			"title": "143",
-			"image": "https://i.pinimg.com/564x/66/cb/cc/66cbcc0b0367bc23709ba6f1ccce1d0d.jpg",
-			"lock": true
-		},
-		{
-			"id": 144,
-			"name_category": "Mahadev",
-			"title": "144",
-			"image": "https://i.pinimg.com/564x/39/d2/e3/39d2e3e62016c55d612acfc14161be9a.jpg",
-			"lock": true
-		},
-		{
-			"id": 145,
-			"name_category": "Mahadev",
-			"title": "145",
-			"image": "https://i.pinimg.com/564x/fd/2c/c8/fd2cc84a016420c38e405a439876f907.jpg",
-			"lock": true
-		},
-		{
-			"id": 146,
-			"name_category": "Mahadev",
-			"title": "146",
-			"image": "https://i.pinimg.com/564x/10/a1/e5/10a1e50de0473c682008359597e964b9.jpg",
-			"lock": false
-		},
-		{
-			"id": 147,
-			"name_category": "Mahadev",
-			"title": "147",
-			"image": "https://i.pinimg.com/564x/a5/96/26/a59626f741f84f51622c72e657bca82f.jpg",
-			"lock": false
-		},
-		{
-			"id": 148,
-			"name_category": "Mahadev",
-			"title": "148",
-			"image": "https://i.pinimg.com/564x/7c/07/5c/7c075c0b4f99a171ca2c9e46039bf5c9.jpg",
-			"lock": false
-		},
-		{
-			"id": 149,
-			"name_category": "Mahadev",
-			"title": "149",
-			"image": "https://i.pinimg.com/564x/e9/12/3a/e9123ae83f7bbf56b8e417ef69b5b211.jpg",
-			"lock": false
-		},
-		{
-			"id": 150,
-			"name_category": "Mahadev",
-			"title": "150",
-			"image": "https://i.pinimg.com/564x/72/9e/cc/729ecc22c2d2425f0fa85dc9e97c50e1.jpg",
-			"lock": false
-		},
-		{
-			"id": 151,
-			"name_category": "Mahadev",
-			"title": "151",
-			"image": "https://i.pinimg.com/564x/72/80/67/7280679197e3b41046d753f47c0c47d7.jpg",
-			"lock": false
-		},
-		{
-			"id": 152,
-			"name_category": "Mahadev",
-			"title": "152",
-			"image": "https://i.pinimg.com/736x/2f/3a/ed/2f3aed59c8b085a98aa1b682482b6320.jpg",
-			"lock": false
-		},
-		{
-			"id": 153,
-			"name_category": "Mahadev",
-			"title": "153",
-			"image": "https://i.pinimg.com/564x/4d/81/d3/4d81d326bc30c2ba5deca9acc2ab57df.jpg",
-			"lock": false
-		},
-		{
-			"id": 154,
-			"name_category": "Mahadev",
-			"title": "154",
-			"image": "https://i.pinimg.com/564x/09/99/93/0999938350c932efdbe5c6986b6422b2.jpg",
-			"lock": false
-		},
-		{
-			"id": 155,
-			"name_category": "Mahadev",
-			"title": "155",
-			"image": "https://i.pinimg.com/564x/35/69/59/3569597c109aa98b12b537c62c6ac595.jpg",
-			"lock": false
-		},
-		{
-			"id": 156,
-			"name_category": "Mahadev",
-			"title": "156",
-			"image": "https://i.pinimg.com/564x/01/41/2b/01412b0d0c4330e29dec1b551ac72110.jpg",
-			"lock": false
-		},
-		{
-			"id": 157,
-			"name_category": "Mahadev",
-			"title": "157",
-			"image": "https://i.pinimg.com/564x/ab/78/90/ab7890309a86af3c0c45d463b929940c.jpg",
-			"lock": false
-		},
-		{
-			"id": 158,
-			"name_category": "Mahadev",
-			"title": "158",
-			"image": "https://i.pinimg.com/564x/57/48/fe/5748fea1025ff33579eb85910f46a999.jpg",
-			"lock": false
-		},
-		{
-			"id": 159,
-			"name_category": "Mahadev",
-			"title": "159",
-			"image": "https://i.pinimg.com/564x/ab/e8/0e/abe80ecdb48c1a15f16daadf6c6947b6.jpg",
-			"lock": false
-		},
-		{
-			"id": 160,
-			"name_category": "Mahadev",
-			"title": "160",
-			"image": "https://i.pinimg.com/564x/6d/9e/a8/6d9ea8ae945237f5e2d04608ebf24856.jpg",
-			"lock": false
-		},
-		{
-			"id": 161,
-			"name_category": "Mahadev",
-			"title": "161",
-			"image": "https://i.pinimg.com/736x/6f/2d/eb/6f2deb83407f005d9b9b99f3b1952123.jpg",
-			"lock": false
-		},
-		{
-			"id": 162,
-			"name_category": "Mahadev",
-			"title": "162",
-			"image": "https://i.pinimg.com/564x/98/3e/8c/983e8cb298ccd919c6ca59008ba76be0.jpg",
-			"lock": false
-		},
-		{
-			"id": 163,
-			"name_category": "Mahadev",
-			"title": "163",
-			"image": "https://i.pinimg.com/564x/e1/ae/90/e1ae902de1126e699adf52a75aa7db71.jpg",
-			"lock": false
-		},
-		{
-			"id": 164,
-			"name_category": "Mahadev",
-			"title": "164",
-			"image": "https://i.pinimg.com/564x/8b/fb/3b/8bfb3b070d21ab222779329d1e017bb9.jpg",
-			"lock": false
-		},
-		{
-			"id": 165,
-			"name_category": "Mahadev",
-			"title": "165",
-			"image": "https://i.pinimg.com/564x/7e/6a/47/7e6a474d0ef329a45319db0d952f9e15.jpg",
-			"lock": false
-		},
-		{
-			"id": 166,
-			"name_category": "Mahadev",
-			"title": "166",
-			"image": "https://i.pinimg.com/564x/6d/4e/31/6d4e313751989fdad5bd6a4a313f94cc.jpg",
-			"lock": false
-		},
-		{
-			"id": 167,
-			"name_category": "Mahadev",
-			"title": "167",
-			"image": "https://i.pinimg.com/564x/7a/89/df/7a89df641e2987d8b05c43f5f0c7b66b.jpg",
-			"lock": false
-		},
-		{
-			"id": 168,
-			"name_category": "Mahadev",
-			"title": "168",
-			"image": "https://i.pinimg.com/564x/91/de/a3/91dea3ac8585e0446ad1f3a100d03a83.jpg",
-			"lock": false
-		},
-		{
-			"id": 169,
-			"name_category": "Mahadev",
-			"title": "169",
-			"image": "https://i.pinimg.com/564x/28/c9/82/28c982c7e451649e63254f2e76881b34.jpg",
-			"lock": false
-		}
-		
-	]
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Ganesha",
+      "wallpaper_url": "https://i.pinimg.com/564x/57/2a/3c/572a3c17258004803200c414046a4737.jpg"
+    },
+	{
+      "name_category": "Hanuman",
+      "wallpaper_url": "https://i.pinimg.com/564x/5d/75/a3/5d75a3507a18572e99648e1856d4c684.jpg"
+    },
+	{
+      "name_category": "Krishna",
+      "wallpaper_url": "https://i.pinimg.com/564x/39/8b/ad/398badfb8c4079684fb5c043d99232c4.jpg"
+    },
+	{
+      "name_category": "Mahadev",
+      "wallpaper_url": "https://i.pinimg.com/564x/d4/9b/4c/d49b4ccd36972c556f7e04c2007a368c.jpg"
+    }
+    
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/7c/01/b6/7c01b6ce2a1a1cbac22bb3709a7bf2a9.jpg"
+    },
+	{
+      "id": 2,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/90/d7/73/90d773b7c13d8ae286dd7fa59223968d.jpg"
+    },
+	{
+      "id": 3,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/08/9a/5e/089a5ef26fb0039b85d4c948f1b9dc64.jpg"
+    },
+	{
+      "id": 4,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/92/1b/6f/921b6f1c883f597e575866c130cdd56f.jpg"
+    },
+	{
+      "id": 5,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/59/8e/df/598edf0e151b9ea78ca7d6da579cfd6c.jpg"
+    },
+	{
+      "id": 6,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/16/f2/4a/16f24a36a33e9c48d7867ac434d595e7.jpg"
+    },
+	{
+      "id": 7,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/02/c4/ee/02c4ee10df6de6b73a8fc9bf72ff6765.jpg"
+    },
+	{
+      "id": 8,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/a0/59/f9/a059f9dc7bb21b5d843df1b8f9fd767f.jpg"
+    },
+	{
+      "id": 9,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/57/2a/3c/572a3c17258004803200c414046a4737.jpg"
+    },
+	{
+      "id": 10,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/09/5f/3e/095f3e22c0c04fd155f3862ae97d1277.jpg"
+    },
+	{
+      "id": 11,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/5c/5c/fe/5c5cfe589969ad6852383890f814d8dc.jpg"
+    },
+	{
+      "id": 12,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/a1/42/1e/a1421e1f938d222921890c4f2970d39a.jpg"
+    },
+	{
+      "id": 13,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/89/0a/bc/890abc571a6cae3f8634419694123773.jpg"
+    },
+	{
+      "id": 14,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/f6/7a/6b/f67a6b2a29479e1914b1499a72172de1.jpg"
+    },
+	{
+      "id": 15,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/5d/9b/50/5d9b5049aca9484e6b4a13893b05c6a5.jpg"
+    },
+	{
+      "id": 16,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b7/a7/33/b7a733ad168d0670281bc838ed6de716.jpg"
+    },
+	{
+      "id": 17,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/76/d8/29/76d829dd3549c2bacece06bfb833693b.jpg"
+    },
+	{
+      "id": 18,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/17/fe/37/17fe3722fbdf7a7e1fc1a396fbca88db.jpg"
+    },
+	{
+      "id": 19,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/83/e9/ae/83e9aec33190fe876c1f429bc2f93270.jpg"
+    },
+	{
+      "id": 20,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/a3/60/71/a36071a3a68801aaa0712a5a8c4a3cca.jpg"
+    },
+	{
+      "id": 21,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/86/29/57/86295765e70f8c385c676c8417059e2c.jpg"
+    },
+	{
+      "id": 22,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/99/b4/2a/99b42aa892f78788640a92c563d2b698.jpg"
+    },
+	{
+      "id": 23,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/9f/93/68/9f93685466839e29d6e1b051b90360a3.jpg"
+    },
+	{
+      "id": 24,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/cd/10/26/cd1026c8fcab24fc94e11c1372664c37.jpg"
+    },
+	{
+      "id": 25,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/92/5e/31/925e311c5c7a0e70fd7baa062df63b07.jpg"
+    },
+	{
+      "id": 26,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/21/9d/eb/219debc3f0f4f93a700930e828e6b070.jpg"
+    },
+	{
+      "id": 27,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/71/92/1f/71921f408dea08e3b67d482d2ff2c2a9.jpg"
+    },
+	{
+      "id": 28,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG28",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/09/18/ed/0918ed6009bf48e7b46e63db95e3d44c.jpg"
+    },
+	{
+      "id": 29,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG29",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/78/f9/57/78f957b4e07aac75bce27955b54f3901.jpg"
+    },
+	{
+      "id": 30,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG30",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/de/6b/c3/de6bc3ca548811a0f35165253a6a7804.jpg"
+    },
+	{
+      "id": 31,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG31",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/a7/32/19/a732195de903e33dfb27839b0067b6dc.jpg"
+    },
+	{
+      "id": 32,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG32",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/3a/1c/8a/3a1c8a42f477736d375eaf87dfc8db54.jpg"
+    },
+	{
+      "id": 33,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG33",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/2c/7c/2a/2c7c2a8ab98959daeeb124bbd19771b7.jpg"
+    },
+	{
+      "id": 34,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG34",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/ad/78/06/ad78061a56e9894b9035eb7d4e184cc1.jpg"
+    },
+	{
+      "id": 35,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG35",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/6f/e2/34/6fe234dab83322150f63668cf1729070.jpg"
+    },
+	{
+      "id": 36,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG36",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/fe/09/ea/fe09ea635817c35669a23b81f962c03f.jpg"
+    },
+	{
+      "id": 37,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG37",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e9/93/cd/e993cd3f2d4cd4137ed6501a8cde5c24.jpg"
+    },
+	{
+      "id": 38,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG38",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/37/29/b7/3729b7f2c0c34acbbd171d1efdf14df4.jpg"
+    },
+	{
+      "id": 39,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG39",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b8/19/a4/b819a4600553c848ed5df62f7f2804ae.jpg"
+    },
+	{
+      "id": 40,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG40",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/67/c3/37/67c337462818347c2114743652c34c24.jpg"
+    },
+	{
+      "id": 41,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG41",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/6f/28/ce/6f28cea70a3a3a74b2462cc6e562b2ee.jpg"
+    },
+	{
+      "id": 42,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG42",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/63/77/1d/63771db87ac1eb04730f71bd1e958c26.jpg"
+    },
+	{
+      "id": 43,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG43",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/16/d5/03/16d503ca13a093cfaccc3dbed73a664f.jpg"
+    },
+	{
+      "id": 44,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG44",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/9a/4d/c9/9a4dc91720cd53e65f9d75669c83399f.jpg"
+    },
+	{
+      "id": 45,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG45",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/4c/2e/82/4c2e82097747d59bc389f5d163152eff.jpg"
+    },
+	{
+      "id": 46,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG46",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/32/ba/58/32ba5841fa6fdf99228a1664994b7dcf.jpg"
+    },
+	{
+      "id": 47,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG47",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/d5/34/66/d53466ce4e05dd0227efc366953571ca.jpg"
+    },
+	{
+      "id": 48,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG48",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/b7/c0/fe/b7c0fef580ec22bcb13b8b9e8211eb0a.jpg"
+    },
+	{
+      "id": 49,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG49",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/c5/fd/7a/c5fd7a86c8e84e6075efb73c0d66ff05.jpg"
+    },
+	{
+      "id": 50,
+      "name_category": "Ganesha",
+      "wallpaper_name": "RTBG50",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/93/9d/0c/939d0c01e3092666b4f0ec8ad5072c00.jpg"
+    },
+	{
+      "id": 51,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG51",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/9e/43/a9/9e43a9b932d596bc5404e9247334dd2a.jpg"
+    },
+	{
+      "id": 52,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG52",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/6a/70/1c/6a701c0e9d939fcdef5a83084e0f783b.jpg"
+    },
+	{
+      "id": 53,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG53",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/76/d3/0e/76d30e6c58632755325bdaff966d9285.jpg"
+    },
+	{
+      "id": 54,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG54",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/2b/70/58/2b705896cb4b35f408f10a6ce5aa54ec.jpg"
+    },
+	{
+      "id": 55,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG55",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/80/00/5f/80005f30658d505c04f9074e7683a64c.jpg"
+    },
+	{
+      "id": 56,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG56",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ef/80/4c/ef804cc9392b7da71908f7e622af1137.jpg"
+    },
+	{
+      "id": 57,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG57",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/a9/2d/e3/a92de3d19b4a75cb4320a475a8cef762.jpg"
+    },
+	{
+      "id": 58,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG58",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/54/d8/fa/54d8fa57d2786b43a5529cba4915b159.jpg"
+    },
+	{
+      "id": 59,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG59",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/76/fc/38/76fc385239ac2ddd357425280b40eabf.jpg"
+    },
+	{
+      "id": 60,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG60",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/73/2f/bd/732fbd845ed29cee2366fb3d4117e898.jpg"
+    },
+	{
+      "id": 61,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG61",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/a4/98/5a/a4985a7c63d550a961f9b9444fa2d366.jpg"
+    },
+	{
+      "id": 62,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG62",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/21/88/01/2188014fa53840a11f763d137c2202ed.jpg"
+    },
+	{
+      "id": 63,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG63",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/da/72/e4/da72e4911ca70712af91d0b5309ab463.jpg"
+    },
+	{
+      "id": 64,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG64",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/2c/71/10/2c7110203688e6512606a52f9f74ec35.jpg"
+    },
+	{
+      "id": 65,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG65",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/28/57/80/285780c63c20c4f2f591521be8c36519.jpg"
+    },
+	{
+      "id": 66,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG66",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/43/9a/76/439a767e7623d7329400a41dfef675a4.jpg"
+    },
+	{
+      "id": 67,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG67",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/1d/5c/32/1d5c32a668631d1e0abbc3aa483b2771.jpg"
+    },
+	{
+      "id": 68,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG68",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c8/fd/bc/c8fdbc6f893cfba77cd0a6b41247ebce.jpg"
+    },
+	{
+      "id": 69,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG69",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/8a/80/8b/8a808b2005643457b8bf69486880a631.jpg"
+    },
+	{
+      "id": 70,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG70",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/9a/ac/14/9aac14d6a69943805d27d07c0206e194.jpg"
+    },
+	{
+      "id": 71,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG71",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b2/26/da/b226da0954e00ccaaf1b77083a58272f.jpg"
+    },
+	{
+      "id": 72,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG72",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d5/81/a4/d581a456820620930d45a8b3d120e83b.jpg"
+    },
+	{
+      "id": 73,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG73",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/fd/2e/cf/fd2ecf75c40f93f04850b6468eefcab2.jpg"
+    },
+	{
+      "id": 74,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG74",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c5/3a/46/c53a46b1b697075ece9fa33253d2e6e4.jpg"
+    },
+	{
+      "id": 75,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG75",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/a4/d9/52/a4d9528c07a99e166c19e874bbcb295a.jpg"
+    },
+	{
+      "id": 76,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG76",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/14/70/50/14705069632135a11b32f1ca5bc77253.jpg"
+    },
+	{
+      "id": 77,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG77",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e0/72/af/e072af701d62ba2f5749a0ed3635f5d7.jpg"
+    },
+	{
+      "id": 78,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG78",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d9/fa/68/d9fa685d35e7d82e7a298cc5704f9a8a.jpg"
+    },
+	{
+      "id": 79,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG79",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c6/4a/82/c64a82e92b96f449f072050490863350.jpg"
+    },
+	{
+      "id": 80,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG80",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/0a/31/86/0a3186a9ccada01478d7b9cc3a595474.jpg"
+    },
+	{
+      "id": 81,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG81",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/84/5b/98/845b98a909f2be7a5fef7cf59b65ac42.jpg"
+    },
+	{
+      "id": 82,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG82",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/6c/8a/c5/6c8ac544c7104dab40b7a310a48bbe6f.jpg"
+    },
+	{
+      "id": 83,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG83",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/9f/cd/e9/9fcde94858c0387d82ebb119bc7efa78.jpg"
+    },
+	{
+      "id": 84,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG84",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/38/87/2c/38872c6e0c96f5bda6dbc98b53631f63.jpg"
+    },
+	{
+      "id": 85,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG85",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/76/f8/50/76f850b5816e4d6068dba28082cf101e.jpg"
+    },
+	{
+      "id": 86,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG86",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d8/80/e2/d880e26c73c45b09b643e8bc3237199f.jpg"
+    },
+	{
+      "id": 87,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG87",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ae/aa/75/aeaa7579c6de876b1be0e931ebdf561e.jpg"
+    },
+	{
+      "id": 88,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG88",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/58/c2/68/58c268db78896f491de59f74862af4da.jpg"
+    },
+	{
+      "id": 89,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG89",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/40/7f/ba/407fba0d19be1b56433c8f4eaabe60a2.jpg"
+    },
+	{
+      "id": 90,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG90",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/a3/bf/ba/a3bfba3de637de52c03120e4b7d22054.jpg"
+    },
+	{
+      "id": 91,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG91",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/63/3b/52/633b523c41c5eae449393c4a1d651f9c.jpg"
+    },
+	{
+      "id": 92,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG92",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c3/fd/48/c3fd48ee3e3f6c0292fdb0f46e0d1832.jpg"
+    },
+	{
+      "id": 93,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG93",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/de/38/05/de3805480e1d0724c30d28959ddc9317.jpg"
+    },
+	{
+      "id": 94,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG94",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/53/5f/1c/535f1c91dd9a762941b1ae0e0f856b8e.jpg"
+    },
+	{
+      "id": 95,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG95",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/af/20/39/af20399fda5a103845fa8ad8c2266255.jpg"
+    },
+	{
+      "id": 96,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG96",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/06/5f/dc/065fdc2de009752c128c0e9bcfdca376.jpg"
+    },
+	{
+      "id": 97,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG97",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ca/f4/df/caf4dfbcde821224f206a6da4b1c6972.jpg"
+    },
+	{
+      "id": 98,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG98",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/45/f6/fe/45f6fe289b6ba5926e1b407078a666ba.jpg"
+    },
+	{
+      "id": 99,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG99",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/de/c3/71/dec3711dc2e12b99436af573de9e9c63.jpg"
+    },
+	{
+      "id": 100,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG100",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ca/9d/28/ca9d2823ead9a22512f0860bc20e5840.jpg"
+    },
+	{
+      "id": 101,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG101",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/5d/75/a3/5d75a3507a18572e99648e1856d4c684.jpg"
+    },
+	{
+      "id": 102,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG102",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/f8/92/91/f892912fd461cd65e0aa32566878784b.jpg"
+    },
+	{
+      "id": 103,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG103",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/77/a7/a4/77a7a4754bca19cc68a44c40f25a25dd.jpg"
+    },
+	{
+      "id": 104,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG104",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/99/f7/53/99f7530cf8c4c92d48e7d4dccf03e698.jpg"
+    },
+	{
+      "id": 105,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG105",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c4/c7/00/c4c70029cbf71e7282d9dfd91552bd3f.jpg"
+    },
+	{
+      "id": 106,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG106",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/79/7b/2c/797b2cb53f9ec280e3619c83db126556.jpg"
+    },
+	{
+      "id": 107,
+      "name_category": "Hanuman",
+      "wallpaper_name": "RTBG107",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/6a/cb/c2/6acbc29c68305284482e1bb64a64dfa3.jpg"
+    },
+	{
+      "id": 108,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG108",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b8/04/bd/b804bdddf4ea6f0e948d231b87d858a5.jpg"
+    },
+	{
+      "id": 109,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG109",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b3/b6/af/b3b6af0c89d702a2f577d491bc4d5cb5.jpg"
+    },
+	{
+      "id": 110,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG110",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/91/84/44/918444e5f57bef7d83c89cb79cf2cbf1.jpg"
+    },
+	{
+      "id": 111,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG111",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c6/d8/33/c6d833a524d7e5c4201968bec815d8d0.jpg"
+    },
+	{
+      "id": 112,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG112",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/98/0e/4e/980e4e27d7f1cda9b3ca7bfdc78304d2.jpg"
+    },
+	{
+      "id": 113,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG113",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d7/28/e7/d728e7dd720cbdb03f044f80f18fe85d.jpg"
+    },
+	{
+      "id": 114,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG114",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/2d/86/6c/2d866c9e8d0c6cbab06b14dae3c44e3b.jpg"
+    },
+	{
+      "id": 115,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG115",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/f6/64/4b/f6644be17fd1a08abd517f6546ab9a18.jpg"
+    },
+	{
+      "id": 116,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG116",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/f7/77/04/f7770496cda52602a6f8ac91f297b505.jpg"
+    },
+	{
+      "id": 117,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG117",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/cf/35/05/cf350544b7c488d7a572e002eeee6d1d.jpg"
+    },
+	{
+      "id": 118,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG118",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/cb/de/a6/cbdea6400d0177a3c325a46160ff76f4.jpg"
+    },
+	{
+      "id": 119,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG119",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/08/94/6b/08946bd9f77a35186ba711e1c446e988.jpg"
+    },
+	{
+      "id": 120,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG120",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/3d/ee/a9/3deea994e3b93dc96ccb4efb929aa2fe.jpg"
+    },
+	{
+      "id": 121,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG121",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/39/8b/ad/398badfb8c4079684fb5c043d99232c4.jpg"
+    },
+	{
+      "id": 122,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG122",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ce/38/e7/ce38e7764c867273319442cd0364f94e.jpg"
+    },
+	{
+      "id": 123,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG123",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e1/26/7a/e1267abf65d9be8e7c325ac6819452a5.jpg"
+    },
+	{
+      "id": 124,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG124",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/60/15/7b/60157b7b5d93af1e691ae5bd5a643f62.jpg"
+    },
+	{
+      "id": 125,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG125",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/2e/85/9e/2e859ec818d393901d1eea1f662c2512.jpg"
+    },
+	{
+      "id": 126,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG126",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/cd/58/be/cd58be08d7881094c78ed96432e4927e.jpg"
+    },
+	{
+      "id": 127,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG127",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/cb/de/a6/cbdea6400d0177a3c325a46160ff76f4.jpg"
+    },
+	{
+      "id": 128,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG128",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/4a/60/e9/4a60e9e994ac857ae8fbf89dd93a0b31.jpg"
+    },
+	{
+      "id": 129,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG129",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/53/76/e5/5376e5b99d64f61bf2ddb2310e27be36.jpg"
+    },
+	{
+      "id": 130,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG130",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/fc/5a/b2/fc5ab2476a5b90ca96b84608591b9926.jpg"
+    },
+	{
+      "id": 131,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG131",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/5e/1e/bc/5e1ebccd5cd5b8f38be50b102e273b78.jpg"
+    },
+	{
+      "id": 132,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG132",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/92/df/60/92df60242609b51b701bfc31a41d033d.jpg"
+    },
+	{
+      "id": 133,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG133",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b3/14/24/b314248d511cf43640c38c3def2b6de0.jpg"
+    },
+	{
+      "id": 134,
+      "name_category": "Krishna",
+      "wallpaper_name": "RTBG134",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ae/27/f6/ae27f6d99c6d53f4e068be019117d42c.jpg"
+    },
+	{
+      "id": 135,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG135",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/87/0f/88/870f881a57cea76c21c6bee5bb3e7ca7.jpg"
+    },
+	{
+      "id": 136,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG136",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d4/9b/4c/d49b4ccd36972c556f7e04c2007a368c.jpg"
+    },
+	{
+      "id": 137,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG137",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/0b/b6/9f/0bb69fc1c452cb0142a9f9744c45f4d2.jpg"
+    },
+	{
+      "id": 138,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG138",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/86/ea/7a/86ea7a4aaa929f4d61f23da1f0f6f680.jpg"
+    },
+	{
+      "id": 139,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG139",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/56/d9/df/56d9df8aaec8d8ae1dbddfb444b1c5cb.jpg"
+    },
+	{
+      "id": 140,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG140",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c4/dd/57/c4dd577a95efe33256262b39981e0d29.jpg"
+    },
+	{
+      "id": 141,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG141",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/7b/98/87/7b9887132d600821f84cb41c9a241eab.jpg"
+    },
+	{
+      "id": 142,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG142",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/ab/b7/c3/abb7c30a8ac3c065d96254319338cdf2.jpg"
+    },
+	{
+      "id": 143,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG143",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/66/cb/cc/66cbcc0b0367bc23709ba6f1ccce1d0d.jpg"
+    },
+	{
+      "id": 144,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG144",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/39/d2/e3/39d2e3e62016c55d612acfc14161be9a.jpg"
+    },
+	{
+      "id": 145,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG145",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/fd/2c/c8/fd2cc84a016420c38e405a439876f907.jpg"
+    },
+	{
+      "id": 146,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG146",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/10/a1/e5/10a1e50de0473c682008359597e964b9.jpg"
+    },
+	{
+      "id": 147,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG147",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/a5/96/26/a59626f741f84f51622c72e657bca82f.jpg"
+    },
+	{
+      "id": 148,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG148",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/7c/07/5c/7c075c0b4f99a171ca2c9e46039bf5c9.jpg"
+    },
+	{
+      "id": 149,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG149",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e9/12/3a/e9123ae83f7bbf56b8e417ef69b5b211.jpg"
+    },
+	{
+      "id": 150,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG150",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/72/9e/cc/729ecc22c2d2425f0fa85dc9e97c50e1.jpg"
+    },
+	{
+      "id": 151,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG151",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/72/80/67/7280679197e3b41046d753f47c0c47d7.jpg"
+    },
+	{
+      "id": 152,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG152",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/2f/3a/ed/2f3aed59c8b085a98aa1b682482b6320.jpg"
+    },
+	{
+      "id": 153,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG153",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/4d/81/d3/4d81d326bc30c2ba5deca9acc2ab57df.jpg"
+    },
+	{
+      "id": 154,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG154",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/09/99/93/0999938350c932efdbe5c6986b6422b2.jpg"
+    },
+	{
+      "id": 155,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG155",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/35/69/59/3569597c109aa98b12b537c62c6ac595.jpg"
+    },
+	{
+      "id": 156,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG156",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/01/41/2b/01412b0d0c4330e29dec1b551ac72110.jpg"
+    },
+	{
+      "id": 157,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG157",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ab/78/90/ab7890309a86af3c0c45d463b929940c.jpg"
+    },
+	{
+      "id": 158,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG158",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/57/48/fe/5748fea1025ff33579eb85910f46a999.jpg"
+    },
+	{
+      "id": 159,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG159",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ab/e8/0e/abe80ecdb48c1a15f16daadf6c6947b6.jpg"
+    },
+	{
+      "id": 160,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG160",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/6d/9e/a8/6d9ea8ae945237f5e2d04608ebf24856.jpg"
+    },
+	{
+      "id": 161,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG161",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/6f/2d/eb/6f2deb83407f005d9b9b99f3b1952123.jpg"
+    },
+	{
+      "id": 162,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG162",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/98/3e/8c/983e8cb298ccd919c6ca59008ba76be0.jpg"
+    },
+	{
+      "id": 163,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG163",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e1/ae/90/e1ae902de1126e699adf52a75aa7db71.jpg"
+    },
+	{
+      "id": 164,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG164",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/8b/fb/3b/8bfb3b070d21ab222779329d1e017bb9.jpg"
+    },
+	{
+      "id": 165,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG165",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/7e/6a/47/7e6a474d0ef329a45319db0d952f9e15.jpg"
+    },
+	{
+      "id": 166,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG166",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/6d/4e/31/6d4e313751989fdad5bd6a4a313f94cc.jpg"
+    },
+	{
+      "id": 167,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG167",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/7a/89/df/7a89df641e2987d8b05c43f5f0c7b66b.jpg"
+    },
+	{
+      "id": 168,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG168",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/91/de/a3/91dea3ac8585e0446ad1f3a100d03a83.jpg"
+    },
+	{
+      "id": 169,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG169",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/28/c9/82/28c982c7e451649e63254f2e76881b34.jpg"
+    }
+  ]
 }
