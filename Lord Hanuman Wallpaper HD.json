@@ -5,15 +5,11 @@
       "select_backup_ads":"",
       "main_ads_banner": "ca-app-pub-7615880214648928/6093877238",
       "main_ads_intertitial":"ca-app-pub-7615880214648928/8163359571",
-      "main_ads_natives":"",
-      "backup_ads_natives":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "open_ads_max":"1",
+      "open_app_ads":"",
       "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -1227,6 +1223,41 @@
       "wallpaper_name": "RTBG169",
       "wallpaper_type": "IMAGE",
       "wallpaper_url": "https://i.pinimg.com/564x/28/c9/82/28c982c7e451649e63254f2e76881b34.jpg"
+    },
+	{
+      "id": 170,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG170",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/43/59/c7/4359c7a65f703d9e806b10a626aa6d7b.gif"
+    },
+	{
+      "id": 171,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG171",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/ae/5f/9f/ae5f9fd8ad44ba7f97362d966b5586c9.gif"
+    },
+	{
+      "id": 172,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG172",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/04/02/e1/0402e1161a395f5130556aaea8422fde.gif"
+    },
+	{
+      "id": 173,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG173",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/c8/26/da/c826dad55c5a4441858548afaa7caa70.gif"
+    },
+	{
+      "id": 174,
+      "name_category": "Mahadev",
+      "wallpaper_name": "RTBG174",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/92/8f/d1/928fd128fa2de40ac388d7c6598174a0.gif"
     }
   ]
 }
